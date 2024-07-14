@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  min-width: 0;
+}
+
+.rdp {
+  --rdp-accent-color: #bef264;
+  --rdp-background-color: #000;
+  --rdp-selected-color: #000000;
+}
